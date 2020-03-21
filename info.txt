@@ -1,0 +1,6 @@
+1. git config
+2.git init
+3.git add
+4 git commit -m "some messages"
+5.git push
+6.git pull
