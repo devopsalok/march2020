@@ -4,3 +4,4 @@
 4 git commit -m "some messages"
 5.git push
 6.git pull
+7.git stage
